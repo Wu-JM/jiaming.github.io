@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Under Construction ..."
+title: "Under Construction ... 页面建设中……"
 permalink: /publications/
 author_profile: true
 ---
