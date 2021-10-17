@@ -14,11 +14,11 @@ I am currently a PhD student at LPS Orsay (Laboratory of Solid-State Physics, a 
 Education
 ======
   Master
-  ------
-   - 2018-2020 Technical University of Munich, Germany
-   - 2018-2020 Ludwig-Maximilians-Universität München, Germany
-   - 2018-2020 Université de Rennes 1, France
+  --
+   - 2018-2020  Technical University of Munich
+   - 2018-2020  Ludwig-Maximilians-Universität München
+   - 2018-2020  Université de Rennes 1
   
   Bachelor
-  ------
-   - 2014-2018 Yunnan University, China
+  --
+   - 2014-2018  Yunnan University
